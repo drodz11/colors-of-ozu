@@ -1,0 +1,5 @@
+objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll002,SUM_aaa_squarestills.tif,,Summed Z-Projection of An Autumn Afternoon (1962),,2020-03-23,Summed Z-Projection,,,,,,,Image;StillImage,image/tiff,,,
+coll003,SUM_ef_squarestills.tif,,Summed Z-Projection of Equinox Flower (1958),,2020-03-23,Summed Z-Projection,,,,,,,Image;StillImage,image/tiff,,,
+coll004,SUM_eos_squarestills.tif,,Summed Z-Projection of End of Summer (1961),,2020-03-23,Summed Z-Projection,,,,,,,Image;StillImage,image/tiff,,,
+coll005,SUM_la_squarestills.tif,,Summed Z-Projection of Late Autumn (1960),,2020-03-23,Summed Z-Projection,,,,,,,Image;StillImage,image/tiff,,,
