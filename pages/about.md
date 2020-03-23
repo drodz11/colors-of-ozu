@@ -5,7 +5,7 @@ permalink: /about.html
 # Edit the markdown on in this file to describe your collection
 ---
 
-{% include objects/SUM_aaa_squarestills.jpg %}
+{% include about/jumbotron.html %}
 
 # About {{ Colors of Ozu }}.
 
