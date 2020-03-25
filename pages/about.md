@@ -58,7 +58,7 @@ This command consists of four key parts:
 
 After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files). Executed as written above, the outputted stills will look like this:
 
-![aaa](https://github.com/drodz11/colors-of-ozu/blob/master/_includes/aaa_0090.jpg/)
+![aaa____](https://github.com/drodz11/colors-of-ozu/blob/master/_includes/aaa_0090.jpg/)
 
 If, however, we run the command without the `"scale"` option, our stills will look like this:
 
