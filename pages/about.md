@@ -64,7 +64,7 @@ If, however, we run the command without the `"scale"` option, our stills will lo
 
 ![Still from An Autumn Afternoon without pixel scaling](_includes/image/aaa_0090.jpg)
 
-Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is caused by the non-square pixel encodings of the source video that need to be "corrected" in the stills using the `"scale"` modification. The details and nuances of pixel aspect ratios is a complex and often very confusing technical issue and one that is beyond the scope of this project to sufficiently explain. 
+Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is caused by the non-square pixel encodings of the source video that need to be "corrected" in the stills using the `"scale"` modification in order to render them as square and the full image in the proper 1.37 Academy aspect ratio. Unlike many of his contemporaries, Ozu never made feature films using popular widescreen cinemtography first introduced in the early 1950s. As accounted by David Bordwell, he is [quoted](http://www.davidbordwell.net/blog/2011/04/07/a-matter-of-scope/) saying that the widescreen frame of Cinemascope reminded him of a roll of toilet paper. 
 
 
 ## Analysis   
