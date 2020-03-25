@@ -58,12 +58,12 @@ This command consists of four key parts:
 
 After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files). Executed as written above, the outputted stills will look like this:
 
-
+![](_includes/image/aaa_square0090.jpg)
 
 If, however, we run the command without the `"scale"` option, our stills will look like this:
 
 
-Notice how this second image looks "squished" or "stretched" in comparison to the first. This distortion is caused by the non-square pixel encodings of the source video that need to be "corrected" in the stills using the `"scale"` modification in order to render them as square and the full image in the proper 1.37 Academy aspect ratio. I make a point of this because, unlike many of his contemporaries, Ozu never made feature films using popular widescreen cinematography first introduced in the early 1950s. As accounted by David Bordwell, he is [quoted](http://www.davidbordwell.net/blog/2011/04/07/a-matter-of-scope/) saying that the widescreen frame of Cinemascope reminded him of a roll of toilet paper. As such, for the purposes of analyzing the formal and expressive characteristics of Ozu's work, it is important that our data collection methods align with the films' construction as to minimize the introduction of distortions, bias, or other unwanted artifacts into our analysis. 
+Notice how this second image looks "squished" or "stretched" in comparison to the first. This distortion is caused by the non-square pixel encodings of the source video that need to be "corrected" in the stills using the `"scale"` modification in order to render them as square and the full image in the proper 1.37 Academy aspect ratio. I make a point of this because, unlike many of his contemporaries, Ozu never made feature films using popular widescreen cinematography first introduced in the early 1950s. As accounted by David Bordwell, he is [quoted](http://www.davidbordwell.net/blog/2011/04/07/a-matter-of-scope/) saying that the widescreen frame of Cinemascope reminded him of a roll of toilet paper. As such, for the purposes of analyzing the formal and expressive characteristics of Ozu's work, it is important that our data collection methods align with the films' construction as to minimize the introduction of distortions, bias, or other unwanted artifacts into our analysis.
 
 
 ## Analysis   
