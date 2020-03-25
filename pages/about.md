@@ -26,6 +26,6 @@ _Colors of Ozu_ is an on-going film analysis project that leverages digital tool
 
 ## Analysis   
 
-[More to come...]
+[More to come...last updated 2020-03-24]
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
