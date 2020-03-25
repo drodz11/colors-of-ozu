@@ -23,6 +23,9 @@ _Colors of Ozu_ is an on-going film analysis project that leverages digital tool
 
 ## Theory/Context
 
+
+[coming soon]
+
 ## Methods/Tools
 
 
@@ -38,7 +41,7 @@ These tools are all free and open-source. FFmpeg perhaps carries the steepest le
 
 A number of methods exist for transforming a digital video file into a series of still images. As Ferguson describes in ["Digital Surrealism"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html), the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
 
-The method I will provide here uses an FFmpeg command to create a series of still images. The benefits of this method is two-fold: 1) it does not rely on access to proprietary, platform-specific software, and 2) unlike the VLC method--which requires a video file be played back in real time--the FFmpeg command will extract stills at a regular interval over any duration in a fraction of the time. Additionally, the FFmpeg method allows for more control over the image output with regard to maintaining important formal characteristics. Namely, the aspect ratio.
+The method I will provide here uses an FFmpeg command to create a series of still images. The benefits of this method are two-fold: 1) it does not rely on access to proprietary, platform-specific software, and 2) unlike the VLC method--which requires a video file be played back in real time--the FFmpeg command will extract stills at a regular interval over any duration in a fraction of the time. Additionally, the FFmpeg method allows for more control over the image output with regard to maintaining important formal characteristics. Namely, the aspect ratio.
 
 The following command, modified from an [example provided on the FFmpeg Wiki](https://trac.ffmpeg.org/wiki/Create%20a%20thumbnail%20image%20every%20X%20seconds%20of%20the%20video) after [consulting with the good folks who run the FFmpeg Twitter account](https://twitter.com/clavilux_of_FL/status/1239969705575636993), was used to create the stills:
 
@@ -50,15 +53,23 @@ This command consists of four key parts:
 
   * `ffmpeg` = calls ffmpeg to start the command
   * `-i inputvideo.mp4` = specifies the input file (in practice this would be the actual name of the video file)
-  * `-vf fps=0.5,"scale=iw*sar:ih,setsar=1"` = this "video filter" samples 1 frame for every 2 seconds of video and scales the output to square pixels (see below for why this is an important modification)
+  * `-vf fps=0.5,"scale=iw*sar:ih,setsar=1"` = this "video filter" samples 1 frame for every 2 seconds of video and scales the output to square pixels (see below for an explanation of why this is an important modification)
   * `directory/outputname_%04d.png` = specifies the directory for the stills to be saved, a sequential naming convention (outputname_0001, outputname_0002, and so on), and file format for the stills (this can, alternatively, be `.jpeg` or another file-type)
 
+After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files). As written above, the outputted stills will look like this:
+
+{% include figure.html filename="objects/aaa_0090.png" caption="From _An Autumn Afternoon_ (1962)" %}
 
 
 ## Analysis   
 
 
+[coming soon]
+
+
 ## Resources & Learning Tools
+
+[coming soon]
 
 
 ## Works Cited
