@@ -9,6 +9,7 @@ permalink: /about.html
 
 ## Intro.
 
+
 _"The unexpected humanity of the Ozu film is made possible by the rigor of its construction. In an Ozu film...one sees all the supports, and all of them are equally essential"_
 - Donald Richie, _Ozu_ (1974, University of California Press)
 
