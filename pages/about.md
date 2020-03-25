@@ -7,7 +7,7 @@ permalink: /about.html
 
 {% include about/jumbotron.html %}
 
-## Intro.
+## Intro
 
 
 _"The unexpected humanity of the Ozu film is made possible by the rigor of its construction. In an Ozu film...one sees all the supports, and all of them are equally essential"_
