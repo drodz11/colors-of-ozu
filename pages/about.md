@@ -64,7 +64,7 @@ If, however, we run the command without the `"scale"` option, our stills will lo
 
 ![Still from An Autumn Afternoon without pixel scaling](_includes/image/aaa_0090.jpg)
 
-Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is caused
+Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is caused by the non-square pixel encodings of the source video that need to be "corrected" in the stills using the `"scale"` modification. The details and nuances of pixel aspect ratios is a complex and often very confusing technical issue and one that is beyond the scope of this project to sufficiently explain. 
 
 
 ## Analysis   
