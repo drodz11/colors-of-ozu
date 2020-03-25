@@ -64,7 +64,7 @@ If, however, we run the command without the `"scale"` option, our stills will lo
 
 {% include figure.html filename="aaa_0090.png" caption="From _An Autumn Afternoon_ (1962) without pixel scaling" %}
 
-Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is
+Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is caused
 
 
 ## Analysis   
