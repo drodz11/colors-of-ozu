@@ -58,13 +58,13 @@ This command consists of four key parts:
 
 After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files). Executed as written above, the outputted stills will look like this:
 
-{% include figure.html filename="objects/aaa_square0090.png" caption="From _An Autumn Afternoon_ (1962)" %}
+{% include figure.html filename="aaa_square0090.png" caption="From _An Autumn Afternoon_ (1962)" %}
 
 If, however, we run the command without the `"scale"` option, our stills will look like this:
 
-{% include figure.html filename="objects/aaa_0090.png" caption="From _An Autumn Afternoon_ (1962) without pixel scaling" %}
+{% include figure.html filename="aaa_0090.png" caption="From _An Autumn Afternoon_ (1962) without pixel scaling" %}
 
-Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is 
+Notice how this second image looks "squished" or "stretched" in comparison to the first image. This distortion is
 
 
 ## Analysis   
