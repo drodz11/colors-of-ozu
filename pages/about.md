@@ -7,10 +7,20 @@ permalink: /about.html
 
 {% include about/jumbotron.html %}
 
-# About
+## Intro.
 
-The films of Yasujirō Ozu are among the most celebrated and canonized works in cinematic history. Movies like _Tokyo Story_ (1953) and _Late Spring_ (1949) have historically ranked among the "greatest films of all time" in large-scale international polls, such as the one conducted by [_Sight & Sound_](https://en.wikipedia.org/wiki/The_Sight_%26_Sound_Greatest_Films_of_All_Time_2012). While the criteria for such "rankings" and the canonization of any auteur should be critically interrogated, Ozu's distinctive style and nuanced story-telling clearly continue to resonate with audiences and critics alike.
+###### "The unexpected humanity of the Ozu film is made possible by the rigor of its construction. In an Ozu film...one sees all the supports, and all of them are equally essential"
+- Donald Richie, _Ozu_ (1974, University of California Press)
+
+###### "No longer should we be bound to cinema as truth that exists only in a fleeting 24 frames-per-second. We instead should make as many frames as we like, and hold them in our hands for as long as we want"
+- Kevin L. Ferguson, [Volumetric Cinema](http://mediacommons.org/intransition/2015/03/10/volumetric-cinema) (2015)
+
+_Colors of Ozu_ is an on-going film analysis project that leverages digital tools and technologies to novelly and creatively explore the final six films of Japanese filmmaker [Yasujirō Ozu](https://en.wikipedia.org/wiki/Yasujir%C5%8D_Ozu). These works--which include _Equinox Flower_ (1958), _Good Morning_ (1959), _Floating Weeds_ (1959), _Late Autumn_ (1960), _The End of Summer_ (1961), and _An Autumn Afternoon_ (1962)--are also unique in his oeuvre for being the only films the prolific director and screenwriter even produced in color. While his films have been widely regarded and studied for their nuanced story-telling, universally resonant characters, and distinctive visual style, little critical attention has been given to investigating Ozu's use of color at the end of his career. _Colors of Ozu_ seeks a dual purpose in adding this element to the existing, broad field of criticism around Ozu's work and applying the tools and methods of digital humanities (DH) research to strengthen the bond between DH and film/media studies.
+
+## Methods/Tools
+
+## Analysis   
 
 [More to come...]
 
-This site was created and maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
+This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
