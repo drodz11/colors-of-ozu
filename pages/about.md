@@ -21,10 +21,13 @@ We instead should make as many frames as we like, and hold them in our hands for
 Begun as a research project in March of 2020 during the COVID-19 pandemic, _Colors of Ozu_ is an on-going film analysis project that leverages digital tools and technologies to novelly and creatively examine the final six films of Japanese filmmaker [Yasujirō Ozu](https://en.wikipedia.org/wiki/Yasujir%C5%8D_Ozu). These works--which include _Equinox Flower_ (1958), _Good Morning_ (1959), _Floating Weeds_ (1959), _Late Autumn_ (1960), _The End of Summer_ (1961), and _An Autumn Afternoon_ (1962)--are also unique in his oeuvre for being the only films the prolific director and screenwriter even produced in color. While his films have been widely regarded and studied for their distinctive visual style, relationship to Japanese society and culture, and other aesthetic and narrative qualities, little critical attention has been given to investigating Ozu's use of color at the end of his career. _Colors of Ozu_ seeks a dual purpose in adding this element to the existing, broad field of criticism around Ozu's work and applying the tools and methods of digital humanities (DH) research to strengthen the bond between DH and film/media studies. The hope of this project is to inspire media scholars to explore research methods beyond traditional audio-visual analysis and DH practitioners to expand their purview into new cultural heritage domains by applying digital scholarship methods to the study of filmic texts.
 
 
-## Theory/Context
+## Critical and Theoretical Contexts
 
 
-[coming soon]
+### AV in DH
+As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Computing," the field of DH has tended to put textual sources at "center stage" within the development of the discipline. Using computers to analyze and generate new knowledge about/from textual corpora--either by employing "distant viewing," annotation, or otherwise uniquely digital or computational techniques--has been a mainstay of the field since its earliest incarnations in the mid-20th century. It is only relatively recently that technology with the capacity to run similar computational analysis on moving-images or other visual cultural materials has become accessible to scholars and artists. Beginning in the early 2000s with Lev Manovich's groundbreaking work in [Cultural Analytics](http://lab.culturalanalytics.info/), we have seen a slow rise in this subject area within DH. Scott Weingart's analysis of submissions to the [ADHO Conference](http://adho.org/conference) between 2015-2017 shows an uptick from roughly 2% to 9% for submissions within the "film and media studies" subject area, while the "audio, visual, and multimedia" topic jumped from roughly 9% to 13%. While this observational data from one international conference does not necessarily signal a sea change in DH, it does suggest a growing interest in the field that interrogates all facets of visual culture and dives headfirst into the massively proliferating archive of digital media collections. 
+
+
 
 ## Methods/Tools
 
@@ -37,7 +40,7 @@ Tools and applications used in this project include:
 
 These tools are all free and open-source. FFmpeg perhaps carries the steepest learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
 
-### Extracting a series of stills from a digital video file
+### Extracting a series of stills or "slices" from a digital video file
 
 A number of methods exist for transforming a digital video file into a series of still images. As Ferguson describes in ["Digital Surrealism"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html), the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
 
@@ -78,11 +81,29 @@ For more information on the often very confusing issues related to pixel aspect 
 
 ## Resources & Learning Tools
 
-[coming soon]
+### FFmpeg
+
+  * [ffmprovisr from the AMIA Open Source Committee](https://amiaopensource.github.io/ffmprovisr/)
+  * [Introduction to Audiovisual Transcoding, Editing, and Color Analysis from The Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-ffmpeg)
+  * [FFmpeg Bug Tracker & Wiki](https://trac.ffmpeg.org/)
+  * [Official Documentation](https://www.ffmpeg.org/documentation.html)
+
+### CLI (Command Line Interface)
+
+  * [Introduction to the Bash Command Line from The Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
+
+### Aspect Ratio & Pixel Aspect Ratio
+
+  * [Filmmaker IQ's Epic Lesson in the History of Aspect Ratio](https://nofilmschool.com/2013/06/visual-history-of-aspect-ratio)
+  * [Ashley Blewer's primer on pixel aspect ratio](https://training.ashleyblewer.com/presentations/video.html#27)
+  * [Wikipedia article on pixel aspect ratio](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
 
 
 ## Works Cited
 
-[More to come...last updated 2020-03-24]
+Hockey, S. (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
+
+Weingart, S. (2017) “Submissions to DH2017 (pt. 1),” http://scottbot.net/submissions-to-dh2017-pt-1
+
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
