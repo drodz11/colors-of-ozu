@@ -22,11 +22,8 @@ Begun as a research project in March of 2020 during the COVID-19 pandemic, _Colo
 
 
 ## Critical and Theoretical Contexts
-
-<br>
 <br>
 #### _AV in DH_
-<br>
 As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Computing," the field of DH has tended to put textual sources at "center stage" within the development of the discipline. Using computers to analyze and generate new knowledge about/from textual corpora--either by employing "distant viewing," annotation, or otherwise uniquely digital or computational techniques--has been a mainstay of the field since its earliest incarnations in the mid-20th century. It is only relatively recently that technology with the capacity to run similar computational analysis on moving-images or other visual cultural materials has become accessible to scholars and artists. Beginning in the early 2000s with Lev Manovich's groundbreaking work in [Cultural Analytics](http://lab.culturalanalytics.info/), we have seen a slow rise in this subject area within DH. Scott Weingart's analysis of submissions to the [ADHO Conference](http://adho.org/conference) between 2015-2017 is helpful in quantifying this trend, as his finding shows an uptick from roughly 2% to 9% for submissions within the "film and media studies" subject area, while the "audio, visual, and multimedia" topic jumped from roughly 9% to 13%. While this observational data from one international conference does not necessarily signal a sea change in DH, it does suggest a growing facet of the field that deeply and meaningfully interrogates visual culture, cinematic history, and the massively proliferating network of digital images which surrounds contemporary life.
 
 
@@ -113,7 +110,7 @@ For more information on the often very confusing issues related to pixel aspect 
 
 Hockey, S. (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
 
-Weingart, S. (2017) “Submissions to DH2017 (pt. 1),” http://scottbot.net/submissions-to-dh2017-pt-1
+Weingart, S. (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
