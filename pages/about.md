@@ -29,7 +29,6 @@ As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Comp
 #### _Deformative/Deformed Humanities & Digital Surrealism_
 
 
-
 <br>
 #### _The Films of Yasujirō Ozu_
 
