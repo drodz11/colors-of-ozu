@@ -109,5 +109,5 @@ Hockey, S. (2004) [“The History of Humanities Computing,”](http://www.digita
 
 Weingart, S. (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
-
+[Last updated 2020-03-31]
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu.edu
