@@ -105,7 +105,9 @@ For more information on the often very confusing issues related to pixel aspect 
 
 ## Works Cited
 
-Hockey, S. (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
+Hockey, S. (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) _A Companion to Digital Humanities_, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
+
+Samuels, Lisa and McGann, Jerome (1999) ["Deformance and Interpretation,"](http://www2.iath.virginia.edu/jjm2f/old/deform.html) _New Literary History_, 30(1), Poetry and Poetics, pp. 25-56. Baltimore: John Hopkins University Press 
 
 Weingart, S. (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
