@@ -90,18 +90,18 @@ For more information on the often very confusing issues related to pixel aspect 
 
 ## Resources & Learning Tools
 
-### FFmpeg
+#### FFmpeg
 
   * [ffmprovisr from the AMIA Open Source Committee](https://amiaopensource.github.io/ffmprovisr/)
   * [Introduction to Audiovisual Transcoding, Editing, and Color Analysis from The Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-ffmpeg)
   * [FFmpeg Bug Tracker & Wiki](https://trac.ffmpeg.org/)
   * [Official Documentation](https://www.ffmpeg.org/documentation.html)
 
-### CLI (Command Line Interface)
+#### CLI (Command Line Interface)
 
   * [Introduction to the Bash Command Line from The Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
 
-### Aspect Ratio & Pixel Aspect Ratio
+#### Aspect Ratio & Pixel Aspect Ratio
 
   * [Filmmaker IQ's Epic Lesson in the History of Aspect Ratio](https://nofilmschool.com/2013/06/visual-history-of-aspect-ratio)
   * [Ashley Blewer's primer on pixel aspect ratio](https://training.ashleyblewer.com/presentations/video.html#27)
