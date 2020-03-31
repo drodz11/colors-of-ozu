@@ -30,7 +30,7 @@ As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Comp
 
 
 
-#### _Digital Surrealism & Deformative Humanties_
+#### _Digital Surrealism & Deformative Humanities_
 
 
 
