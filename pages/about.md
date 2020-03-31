@@ -23,14 +23,15 @@ Begun as a research project in March of 2020 during the COVID-19 pandemic, _Colo
 
 ## Critical and Theoretical Contexts
 
-
+<br>
+<br>
 #### _AV in DH_
-As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Computing," the field of DH has tended to put textual sources at "center stage" within the development of the discipline. Using computers to analyze and generate new knowledge about/from textual corpora--either by employing "distant viewing," annotation, or otherwise uniquely digital or computational techniques--has been a mainstay of the field since its earliest incarnations in the mid-20th century. It is only relatively recently that technology with the capacity to run similar computational analysis on moving-images or other visual cultural materials has become accessible to scholars and artists. Beginning in the early 2000s with Lev Manovich's groundbreaking work in [Cultural Analytics](http://lab.culturalanalytics.info/), we have seen a slow rise in this subject area within DH. Scott Weingart's analysis of submissions to the [ADHO Conference](http://adho.org/conference) between 2015-2017 is helpful in quantifying this rise. His findings shows an uptick from roughly 2% to 9% for submissions within the "film and media studies" subject area, while the "audio, visual, and multimedia" topic jumped from roughly 9% to 13%. While this observational data from one international conference does not necessarily signal a sea change in DH, it does suggest a growing interest in the field that interrogates all facets of visual culture. For me, it means diving headfirst into the massively proliferating archive of digital media collections that encompass our cinematic past and future.
+<br>
+As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Computing," the field of DH has tended to put textual sources at "center stage" within the development of the discipline. Using computers to analyze and generate new knowledge about/from textual corpora--either by employing "distant viewing," annotation, or otherwise uniquely digital or computational techniques--has been a mainstay of the field since its earliest incarnations in the mid-20th century. It is only relatively recently that technology with the capacity to run similar computational analysis on moving-images or other visual cultural materials has become accessible to scholars and artists. Beginning in the early 2000s with Lev Manovich's groundbreaking work in [Cultural Analytics](http://lab.culturalanalytics.info/), we have seen a slow rise in this subject area within DH. Scott Weingart's analysis of submissions to the [ADHO Conference](http://adho.org/conference) between 2015-2017 is helpful in quantifying this trend, as his finding shows an uptick from roughly 2% to 9% for submissions within the "film and media studies" subject area, while the "audio, visual, and multimedia" topic jumped from roughly 9% to 13%. While this observational data from one international conference does not necessarily signal a sea change in DH, it does suggest a growing facet of the field that deeply and meaningfully interrogates visual culture, cinematic history, and the massively proliferating network of digital images which surrounds contemporary life.
 
 
 
-
-#### _Digital Surrealism & Deformative Humanities_
+#### _Deformative Humanities & Digital Surrealism_
 
 
 
@@ -38,7 +39,7 @@ As discussed by Susan Hockey in her 2004 chapter "The History of Humanities Comp
 #### _The Films of Yasujirō Ozu_
 
 
-## Methods/Tools
+## Methods & Tools
 
 
 Tools and applications used in this project include:
@@ -65,7 +66,7 @@ This command consists of four key parts:
 
   * `ffmpeg` = calls ffmpeg to start the command
   * `-i inputvideo.mp4` = specifies the input file (in practice this would be the actual name of the video file)
-  * `-vf fps=0.5,"scale=iw*sar:ih,setsar=1"` = this "video filter" samples 1 frame for every 2 seconds of video and scales the output to square pixels (see below for an explanation of why this is an important modification)
+  * `-vf fps=0.5,"scale=iw*sar:ih,setsar=1"` = this "video filter" (`-vf`) samples 1 frame for every 2 seconds of video and scales the output to square pixels (see below for an explanation of why this is an important modification)
   * `directory/outputname_%04d.png` = specifies the directory for the stills to be saved, a sequential naming convention (outputname_0001, outputname_0002, and so on), and file format for the stills (this can, alternatively, be `.jpeg` or another file-type)
 
 After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files). Executed as written above, the outputted stills will look like this:
