@@ -12,7 +12,7 @@ permalink: /about.html
 
 _"The unexpected humanity of the Ozu film is made possible by the rigor of its construction.
 In an Ozu film...one sees all the supports, and all of them are equally essential"_
-- Donald Richie, _Ozu_ (1974, University of California Press)
+- Donald Richie, _Ozu: His Life and Work_ (1974, University of California Press)
 
 _"No longer should we be bound to cinema as truth that exists only in a fleeting 24 frames-per-second.
 We instead should make as many frames as we like, and hold them in our hands for as long as we want"_
