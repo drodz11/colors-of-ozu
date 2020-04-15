@@ -12,7 +12,7 @@ permalink: /about.html
 
 _"The unexpected humanity of the Ozu film is made possible by the rigor of its construction.
 In an Ozu film...one sees all the supports, and all of them are equally essential"_
-- Donald Richie, _Ozu: His Life and Work_ (1974, University of California Press)
+- Donald Richie, _Ozu: His Life and Films_ (1974, University of California Press)
 
 _"No longer should we be bound to cinema as truth that exists only in a fleeting 24 frames-per-second.
 We instead should make as many frames as we like, and hold them in our hands for as long as we want"_
@@ -38,14 +38,20 @@ But Sample also argues that this method is constricted by its insistence on "de-
 For the purposes of examining the works of Ozu, and for film & media studies more generally, there is a middle course to be walked between deformative and deformed practices that leverages the strengths of both. The work of Kevin L. Ferguson in the field they have called "digital surrealism" provides excellent examples of this sort of hybridized scholarly/creative methodology and this work has greatly informed this project. Ferguson defines digital surrealism as "compress[ing] the visual field of a film into a single image in order to compare a corpus of summed frames and create new avenues of scholarly research" (2017). While the process and products of compression and summing can vary greatly (as demonstrated below), the end-goal of this practice remains the same, to "generate new analytical modes for digital humanists who work with image analysis, raising new, comparative, second-order questions that come out of this digitally-aided abstraction" (ibid).
 <br>
 #### _The Films of Yasujirō Ozu_
-In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made"](https://www.bfi.org.uk/greatest-films-all-time). While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points for our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned in the interest of framing the forthcoming analysis inside this discourse.
+In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made"](https://www.bfi.org.uk/greatest-films-all-time). While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points for our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned in the interest of framing the forthcoming analysis within this discourse.
 
 A great deal of the commentary and criticism about Ozu's films have focused on the stylistic or formal qualities of the director's work. Over the course of his career, these features are often written about as solidifying into a distinctive set of strategies related to shot composition, editing style, camera movement/placement, and, in his final six films, the use of color. Adam Bingham helpfully lists these features of Ozu's "mature (post-1949)" period, some of which include:
+
   * The use of 360-degree shooting space
   * A predominately static camera
   * Low camera height
   * Camera placed in front of characters in dialogue
   * Symmetrical editing and presentation of space (47-48)
+
+It is worth noting that, for the six color films treated in this study, the "predominately static camera" became an entirely static one, as these films do not contain any pans, tilts, or tracking shots.
+
+For those who may not be familiar with Ozu's work, watching the films released during this "mature" period does induce a kind of déjà vu wherein plots, characters, and familial situations sometimes blur and run together. As noted by Donald Richie, Ozu had "but one major subject, the Japanese family, and but one major theme, its dissolution" (1). While there has been some resistance to this monolithic viewing of Ozu's films, notably from David Bordwell who contends that "closely scrutinized, his films turn out to be far less alike than people usually think" (2), considering that Ozu repeatedly employed the same actors to play many similar, key roles in his films (most famously, [Setsuko Hara](https://en.wikipedia.org/wiki/Setsuko_Hara) and [Chishū Ryū](https://en.wikipedia.org/wiki/Chish%C5%AB_Ry%C5%AB)), rigorously adhered to specific shooting and editing conventions, and released his films with titles that often employ similar evocations of temporal seasons (e.g. _Late Spring_ (1949), _Early Summer_ (1951), _Early Spring_ (1956), _Late Autumn_ (1960), _The End of Summer_ (1961), _An Autumn Afternoon_ (1962)) the casual or non-academic viewer might be excused in forgetting the specific details of each family-centered drama that usually revolved around generational tensions between parents and children. 
+
 
 <br>
 
@@ -125,9 +131,13 @@ For more information on the often very confusing issues related to pixel aspect 
 
 Bingham, Adam (2004) "The Spaces In-Between: The Cinema of Yasujiro Ozu" _Cineaction_, no. 63, pp. 45-56. Toronto: CineAction Collective
 
+Bordwell, David (1988) _Ozu and the Poetics of Cinema_. Princeton: Princeton University Press
+
 Ferguson, Kevin L. (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanties Quarterly_, 11(1)
 
 Hockey, Susan (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) _A Companion to Digital Humanities_, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
+
+Richie, Donald (1974) _Ozu: His Life and Films_. Berkeley: University of California Press
 
 Sample, Mark (2012) ["Notes Toward a Deformed Humanties"](https://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/)
 
@@ -138,8 +148,7 @@ Steyrl, Hito (2013) ["Too Much World: Is the Internet Dead?](https://www.e-flux.
 Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
-[
 
-Last updated 2020-04-15]
+[Last updated 2020-04-15]
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
