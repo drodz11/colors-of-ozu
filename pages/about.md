@@ -110,6 +110,12 @@ For more information on the often very confusing issues related to pixel aspect 
 
 
 ## Resources & Learning Tools
+#### The Films of Yasujirō Ozu
+Anderson, Thom (2019) ["Ozu Yasujirô: the master of time"](https://www.bfi.org.uk/news-opinion/sight-sound-magazine/features/greatest-films-all-time/ozu-yasujir-master-time)
+
+Joo, Woojeong (2017) _The Cinema of Ozu Yasujiro: Histories of the Everyday_. Edinburgh: EUP
+
+Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Originally published 1988.
 
 #### FFmpeg
 
@@ -127,13 +133,6 @@ For more information on the often very confusing issues related to pixel aspect 
   * [Filmmaker IQ's Epic Lesson in the History of Aspect Ratio](https://nofilmschool.com/2013/06/visual-history-of-aspect-ratio)
   * [Ashley Blewer's primer on pixel aspect ratio](https://training.ashleyblewer.com/presentations/video.html#27)
   * [Wikipedia article on pixel aspect ratio](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
-
-#### The Films of Yasujirō Ozu
-Anderson, Thom (2019) ["Ozu Yasujirô: the master of time"](https://www.bfi.org.uk/news-opinion/sight-sound-magazine/features/greatest-films-all-time/ozu-yasujir-master-time)
-
-Joo, Woojeong (2017) _The Cinema of Ozu Yasujiro: Histories of the Everyday_. Edinburgh: EUP
-
-Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Originally published 1988.
 
 ## Works Cited
 
