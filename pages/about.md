@@ -36,11 +36,16 @@ The lens of "deformative criticism" is useful for conceptualizing digital schola
 But Sample also argues that this method is constricted by its insistence on "de-forming only to re-form." In "breaking" a text through a deformative action, the goal still remains to understand the text as an intact, complete thing in its original form. Rather than remain tethered to this interpretive confinement, Sample suggests a Deformed Humanities approach in which there is no need "to go back to the original text with a revitalized perspective, but to make an entirely new text or artifact" out of its wreckage. In other words, to circuit bend the radio into a new sonic tool rather than reassemble it back to working order, to spawn new texts, artifacts, images, sounds, and meanings than attempt to uphold its original content, structure, or materiality. Artist and media scholar Hito Steyrl, in their seminal essay "Is the Internet Dead?", situates "deformative" practices as part and parcel to the current media landscape wherein digital sounds and images act as "nodes of energy and matter that migrate...proliferate, transform, and activate...morph across different bodies and carriers, acquiring more and more glitches and bruises along the way." The Deformed Humanities approaches operates with similar energy, wherein interpretation is enacted as "doing and knowing, [p]recisely because it relies on undoing and unknowing."
 
 For the purposes of examining the works of Ozu, and for film & media studies more generally, there is a middle course to be walked between deformative and deformed practices that leverages the strengths of both. The work of Kevin L. Ferguson in the field they have called "digital surrealism" provides excellent examples of this sort of hybridized scholarly/creative methodology and this work has greatly informed this project. Ferguson defines digital surrealism as "compress[ing] the visual field of a film into a single image in order to compare a corpus of summed frames and create new avenues of scholarly research" (2017). While the process and products of compression and summing can vary greatly (as demonstrated below), the end-goal of this practice remains the same, to "generate new analytical modes for digital humanists who work with image analysis, raising new, comparative, second-order questions that come out of this digitally-aided abstraction" (ibid).
-
 <br>
 #### _The Films of Yasujirō Ozu_
-In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made"](https://www.bfi.org.uk/greatest-films-all-time). While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points that can frame our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned before moving forward.
+In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made"](https://www.bfi.org.uk/greatest-films-all-time). While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points for our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned in the interest of framing the forthcoming analysis inside this discourse.
 
+A great deal of the commentary and criticism about Ozu's films have focused on the stylistic or formal qualities of the director's work. Over the course of his career, these features are often written about as solidifying into a distinctive set of strategies related to shot composition, editing style, camera movement/placement, and, in his final six films, the use of color. Adam Bingham helpfully lists these features of Ozu's "mature (post-1949)" period, some of which include:
+  * The use of 360-degree shooting space
+  * A predominately static camera
+  * Low camera height
+  * Camera placed in front of characters in dialogue
+  * Symmetrical editing and presentation of space (47-48)
 
 <br>
 
@@ -118,6 +123,8 @@ For more information on the often very confusing issues related to pixel aspect 
 
 ## Works Cited
 
+Bingham, Adam (2004) "The Spaces In-Between: The Cinema of Yasujiro Ozu" _Cineaction_, no. 63, pp. 45-56. Toronto: CineAction Collective
+
 Ferguson, Kevin L. (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanties Quarterly_, 11(1)
 
 Hockey, Susan (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) _A Companion to Digital Humanities_, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
@@ -131,6 +138,8 @@ Steyrl, Hito (2013) ["Too Much World: Is the Internet Dead?](https://www.e-flux.
 Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
-[Last updated 2020-04-15]
+[
+
+Last updated 2020-04-15]
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
