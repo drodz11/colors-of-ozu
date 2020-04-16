@@ -22,6 +22,7 @@ Begun as a research project in March of 2020 during the COVID-19 pandemic, _Colo
 
 The hope of this project is to inspire media scholars to explore research methods beyond traditional audio-visual analysis and DH practitioners to expand their purview into new cultural heritage domains by applying digital scholarship methods to the study of filmic texts. Further, the collection hosted on this website will reflect both the scholarly outputs of the investigation into Ozu's color films and provide guidance and instructions for those wishing to create their own digital scholarship project using the open-source tools leveraged here.
 
+<br>
 
 ## Critical and Theoretical Contexts
 
@@ -37,7 +38,7 @@ But Sample also argues that this method is constricted by its insistence on "de-
 
 For the purposes of examining the works of Ozu, and for film & media studies more generally, there is a middle course to be walked between deformative and deformed practices that leverages the strengths of both. The work of Kevin L. Ferguson in the field they have called "digital surrealism" provides excellent examples of this sort of hybridized scholarly/creative methodology and that has greatly informed this project. Ferguson defines digital surrealism as "compress[ing] the visual field of a film into a single image in order to compare a corpus of summed frames and create new avenues of scholarly research" (2017). While the process and products of compression and summing can vary greatly (as demonstrated below), the end-goal of this practice remains the same: to "generate new analytical modes for digital humanists who work with image analysis, raising new, comparative, second-order questions that come out of this digitally-aided abstraction" (ibid).
 <br>
-#### _The Films of Yasujirō Ozu_
+#### _The Films & Legacy of Yasujirō Ozu_
 In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made."](https://www.bfi.org.uk/greatest-films-all-time) While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points for our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned in the interest of framing the forthcoming analysis within this scholarly discourse.
 
 A great deal of the commentary and criticism about Ozu's films have focused on the stylistic or formal qualities of the director's work. Over the course of his career, these features are often written about as solidifying into a distinctive set of strategies related to shot composition, editing style, camera movement/placement, and, in his final six films, the use of color. Adam Bingham helpfully lists these features of Ozu's "mature (post-1949)" period, some of which include:
@@ -50,16 +51,15 @@ A great deal of the commentary and criticism about Ozu's films have focused on t
 
 It is worth noting that, for the six color films treated in this study, the "predominately static camera" became an entirely static one, as these films do not contain any pans, tilts, or tracking shots.
 
-For those who may not be familiar with Ozu's work, watching the films released during this "mature" period does induce a kind of déjà vu wherein plots, characters, and familial structures sometimes blur and run together. As noted by Donald Richie, Ozu had "but one major subject, the Japanese family, and but one major theme, its dissolution" (1). While there has been some resistance to this monolithic viewing of Ozu's films, notably from David Bordwell who contends that "closely scrutinized, his films turn out to be far less alike than people usually think" (2), considering that Ozu repeatedly employed the same actors to play many similar, key roles in his films (most famously, [Setsuko Hara](https://en.wikipedia.org/wiki/Setsuko_Hara) and [Chishū Ryū](https://en.wikipedia.org/wiki/Chish%C5%AB_Ry%C5%AB)), rigorously adhered to specific shooting and editing conventions, and released his films with titles that often employ similar evocations of temporal seasons (e.g. _Late Spring_ (1949), _Early Summer_ (1951), _Early Spring_ (1956), _Late Autumn_ (1960), _The End of Summer_ (1961), _An Autumn Afternoon_ (1962)), the casual or non-academic viewer might be excused in forgetting the specific details of these family-centered dramas that usually revolve around generational tensions between parents and children. This narrative and stylistic consistency present in Ozu's work, far from being a shortcoming, is a deep pronouncement and dedication to craft which is "formal and the formality is that of poetry, the creation of an ordered context that destroys habit and familiarity, returning to each word, to each image, in its original freshness and urgency" (Richie, xiii). Using the digital tools and methods outlined in the next section, this project hopes produce a similar freshness and new way of looking at Ozu's cinematic poetry, one that breaks from the confines of traditional viewing and allows for new analytical methods.
+For those who may not be familiar with Ozu's work, watching the films released during this "mature" period does induce a kind of déjà vu wherein plots, characters, and familial structures sometimes blur and run together. As noted by Donald Richie, Ozu had "but one major subject, the Japanese family, and but one major theme, its dissolution" (1). While there has been some resistance to this monolithic viewing of Ozu's films, notably from David Bordwell who contends that "closely scrutinized, his films turn out to be far less alike than people usually think" (2), considering that Ozu repeatedly employed the same actors to play many similar, key roles in his films (most famously, [Setsuko Hara](https://en.wikipedia.org/wiki/Setsuko_Hara) and [Chishū Ryū](https://en.wikipedia.org/wiki/Chish%C5%AB_Ry%C5%AB)), rigorously adhered to specific shooting and editing conventions, and released his films with titles that often employ similar evocations of temporal seasons (e.g. _Late Spring_ (1949), _Early Summer_ (1951), _Early Spring_ (1956), _Late Autumn_ (1960), _The End of Summer_ (1961), _An Autumn Afternoon_ (1962)), the casual or non-academic viewer might be excused in forgetting the specific details of these family-centered dramas that usually revolve around generational tensions between parents and children. This narrative and stylistic consistency present in Ozu's work, far from being a shortcoming, is a deep pronouncement and dedication to craft which is "formal and the formality is that of poetry, the creation of an ordered context that destroys habit and familiarity, returning to each word, to each image, in its original freshness and urgency" (Richie, xiii).
 
-Much more detailed and thoughtful analyses of Ozu's films can be found in many other places. For some recommendations, see the Resources and Learning Tools section at the bottom of this page.
+Using the digital tools and methods outlined in the next section, this project hopes produce a similar freshness and new way of looking at Ozu's cinematic poetry, one that breaks from the confines of traditional viewing and allows for new analytical methods.
 
+Much more detailed and comprehensive analyses of Ozu's films can be found in many other places. For some recommendations of where to seek out these commentaries, see the Resources and Learning Tools section at the bottom of this page.
 
 <br>
 
 ## Methods & Tools
-
-
 Tools and applications used in this project include:
 
   * [FFmpeg](https://www.ffmpeg.org/)
@@ -69,10 +69,9 @@ Tools and applications used in this project include:
 These tools are all free and open-source. FFmpeg perhaps carries the steepest learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
 
 #### _Extracting a series of stills or "slices" from a digital video file_
+As described by both Sample and Ferguson, one way of beginning the process of visually analyzing a motion-picture is convert the time-based media into a series of still images that can be more malleably manipulated by image analysis software. A number of methods exist for performing this task. As Ferguson describes in "Digital Surrealism," the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
 
-A number of methods exist for transforming a digital video file into a series of still images. As Ferguson describes in ["Digital Surrealism"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html), the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
-
-The method I will provide here uses an FFmpeg command to create a series of still images. The benefits of this method are two-fold: 1) it does not rely on access to proprietary, platform-specific software, and 2) unlike the VLC method--which requires a video file be played back in real time--the FFmpeg command will extract stills at a regular interval over any duration in a fraction of the time. Additionally, the FFmpeg method allows for more control over the image output with regard to maintaining important formal characteristics. Namely, the aspect ratio.
+The method I will provide here uses an FFmpeg command to create a series of still images. The benefits of this method are two-fold: 1) it does not rely on access to proprietary, platform-specific software, and 2) unlike the VLC method--which requires a video file be played back in real time--the FFmpeg command will extract stills at a regular interval over any duration in a fraction of the time. Additionally, the FFmpeg method allows for more control over the image output with regard to maintaining important formal characteristics like the aspect ratio.
 
 The following command, modified from an [example provided on the FFmpeg Wiki](https://trac.ffmpeg.org/wiki/Create%20a%20thumbnail%20image%20every%20X%20seconds%20of%20the%20video) after [consulting with the good folks who run the FFmpeg Twitter account](https://twitter.com/clavilux_of_FL/status/1239969705575636993), was used to create the stills:
 
@@ -87,7 +86,7 @@ This command consists of four key parts:
   * `-vf fps=0.5,"scale=iw*sar:ih,setsar=1"` = this "video filter" (`-vf`) samples 1 frame for every 2 seconds of video and scales the output to square pixels (see below for an explanation of why this is an important modification)
   * `directory/outputname_%04d.png` = specifies the directory for the stills to be saved, a sequential naming convention (outputname_0001, outputname_0002, and so on), and file format for the stills (this can, alternatively, be `.jpeg` or another file-type)
 
-After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 3,000-4,000 image files).
+After running this command, the output directory will become populated with still images, sequentially numbered and running the length of the video file (for a feature-length film, this will be 2,000-4,000 image files).
 
 Let's see what happens when we execute this script on _An Autumn Afternoon_ (1962). Executed as written above, the outputted stills will look like this:
 
@@ -102,9 +101,20 @@ Notice how this second image looks "squished" or "stretched" in comparison to th
 
 For more information on the often very confusing issues related to pixel aspect ratio, see the "Resources & Learning Tools" section.
 
+Now that we have converted our digital video files into still images, we can leverage the functionalities of ImageJ and Imj to critically investigate Ozu's uses of color.
+
+<br>
 
 ## Analysis   
+### Summed Z-Projections
 
+<br>
+
+### Montages
+
+<br>
+
+### Scatterplots
 
 [coming soon]
 
@@ -123,6 +133,10 @@ Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Orig
   * [Introduction to Audiovisual Transcoding, Editing, and Color Analysis from The Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-ffmpeg)
   * [FFmpeg Bug Tracker & Wiki](https://trac.ffmpeg.org/)
   * [Official Documentation](https://www.ffmpeg.org/documentation.html)
+
+#### ImageJ
+
+  * [ImageJ User Guide](https://imagej.nih.gov/ij/docs/guide/user-guide.pdf)
 
 #### CLI (Command Line Interface)
 
