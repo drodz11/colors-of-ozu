@@ -170,6 +170,6 @@ Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
-[Last updated 2020-04-15]
+[Last updated 2020-04-16]
 
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
