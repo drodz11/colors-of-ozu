@@ -107,9 +107,17 @@ Now that we have converted our digital video files into still images, we can lev
 
 ## Analysis   
 ### Summed Z-Projections
-
+{% include feature/item-figure.html objectid="coll003" %}
 <br>
-
+{% include feature/item-figure.html objectid="coll008" %}
+<br>
+{% include feature/item-figure.html objectid="coll011" %}
+<br>
+{% include feature/item-figure.html objectid="coll005" %}
+<br>
+{% include feature/item-figure.html objectid="coll004" %}
+<br>
+{% include feature/item-figure.html objectid="coll002" %}
 ### Montages
 
 <br>
