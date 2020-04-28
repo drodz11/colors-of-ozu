@@ -115,9 +115,9 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 
 {% include feature/item-figure.html objectid="coll003" %}
 <br>
-{% include feature/item-figure.html objectid="coll008" %}
-<br>
 {% include feature/item-figure.html objectid="coll011" %}
+<br>
+{% include feature/item-figure.html objectid="coll008" %}
 <br>
 {% include feature/item-figure.html objectid="coll005" %}
 <br>
