@@ -106,7 +106,13 @@ Now that we have converted our digital video files into still images, we can lev
 <br>
 
 ## Analysis   
-### Summed Z-Projections
+### Summed Frame Z-Projections
+The summed frame z-projection is a cornerstone of the "digital surrealist" method as described by Ferguson (2017). The images below were created using the "Stacks" functionality in ImageJ, wherein the extracted still images from a digital video file, or "slices," are digitally "stacked" together in order to represent the visual field of the entire film within a single frame. In doing this we "[convert] the dimension of time that we experience while watching a two-dimensional motion picture into a third spatial dimension that can also be analyzed." The documentation of ImageJ also references this conversion of a temporal dimension into the spatial one: "in stacks, a pixel (which represents 2D image data in a bitmap image) becomes a voxel (volumetric pixel), i.e., an intensity value on a regular grid in a three dimensional space" (Ferreira and Rasband, 2010–2012, p. 12).
+
+While there are several projection-types offered in ImageJ, the "Sum Slices" option "adds together the voxel space of the stack of slices, compressing the film’s visual field to reveal a single representative image." This single representative image is a kind of "impression" or aggregation of the visual experience of the film itself distilled from its duration. Ferguson qualifies this representative image by noting that "[w]hile collapsing the film text to a single frame might initially strike some as overly reductive, this process magnifies a cinematic experience that is otherwise entirely unnoticeable: the pure, cumulative effect of duration on our eyes and brains" that isn't legible through regular ways of viewing tethered to a temporal experience of the film.
+
+Below are the summed z-projections of Ozu's six color films in chronological order:
+
 {% include feature/item-figure.html objectid="coll003" %}
 <br>
 {% include feature/item-figure.html objectid="coll008" %}
@@ -161,6 +167,8 @@ Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Orig
 Bingham, Adam (2004) "The Spaces In-Between: The Cinema of Yasujiro Ozu" _Cineaction_, no. 63, pp. 45-56. Toronto: CineAction Collective
 
 Bordwell, David (1988) _Ozu and the Poetics of Cinema_. Princeton: Princeton University Press
+
+Ferreira, Tiago and Wayne Rasband (2010–2012) [ImageJ User Guide: IJ 1.46r](http://imagej.nih.gov/ij/docs/guide/user-guide.pdf)
 
 Ferguson, Kevin L. (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanties Quarterly_, 11(1)
 
