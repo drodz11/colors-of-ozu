@@ -124,6 +124,10 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 {% include feature/item-figure.html objectid="coll004" %}
 <br>
 {% include feature/item-figure.html objectid="coll002" %}
+
+The first thing anyone is likely to notice between these images is their remarkable similarity of composition. All six z-projections have a ghostly human-esque shape at their center. Dark hair, the shape of a face, and something resembling shoulders and a torso are easily discernible, as is some semblance of clothing--a faint exposure of a tie can even be seen in both _Equinox Flower_ and _An Autumn Afternoon_, both films with middle-aged salarymen struggling with generational differences at their centers. One possible reading of these images is that they illustrate the rigorous conventions of Ozu's style as enumerated by Bingham and many others. This extends even to Ozu himself who self-characterized as "strictly a tofu dealer," referring to his repeated uses of actors, plots, and cinematographic techniques in his filmmaking (Richie, p. 10).  But tofu dealer or no, these images provide us with more insight than may initially meet the eye.
+
+
 ### Montages
 
 <br>
@@ -135,7 +139,7 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 
 ## Resources & Learning Tools
 #### The Films of Yasujirō Ozu
-Anderson, Thom (2019) ["Ozu Yasujirô: the master of time"](https://www.bfi.org.uk/news-opinion/sight-sound-magazine/features/greatest-films-all-time/ozu-yasujir-master-time)
+Anderson, Thom (2019) ["Ozu Yasujirô: The Master of Time"](https://www.bfi.org.uk/news-opinion/sight-sound-magazine/features/greatest-films-all-time/ozu-yasujir-master-time)
 
 Joo, Woojeong (2017) _The Cinema of Ozu Yasujiro: Histories of the Everyday_. Edinburgh: EUP
 
@@ -186,6 +190,7 @@ Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
-[Last updated 2020-04-16]
-
+## About the Author
 This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
+
+Last updated 2020-04-29
