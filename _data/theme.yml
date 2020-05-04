@@ -73,9 +73,9 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,identifier,type,format"
+metadata-export-fields: "objectid, filename,	youtubeid, title, type,	format, rightsstatement"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "format"
+metadata-facets-fields: "type"
 
 ##########
 # ADVANCED OPTIONS
