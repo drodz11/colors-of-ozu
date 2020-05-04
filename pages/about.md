@@ -36,12 +36,12 @@ The lens of "deformative criticism" is useful for conceptualizing digital schola
 
 But Sample also argues that this method is constricted by its insistence on "de-forming only to re-form." In "breaking" a text through a deformative action, the goal still remains to understand the text as an intact, complete thing in its original form. Rather than remain tethered to this interpretive confinement, Sample suggests a Deformed Humanities approach in which there is no need "to go back to the original text with a revitalized perspective, but to make an entirely new text or artifact" out of its wreckage. In other words, to circuit bend the radio into a new sonic tool rather than reassemble it back to working order, to spawn new texts, artifacts, images, sounds, and meanings than attempt to uphold their original content, structure, or materiality. Artist and media scholar Hito Steyrl, in their seminal essay "Is the Internet Dead?", situates "deformative" practices as part and parcel to the current media landscape wherein digital sounds and images act as "nodes of energy and matter that migrate...proliferate, transform, and activate...morph across different bodies and carriers, acquiring more and more glitches and bruises along the way." The Deformed Humanities approach operates on similar energy, wherein interpretation is enacted as "doing and knowing, [p]recisely because it relies on undoing and unknowing."
 
-For the purposes of examining the works of Ozu, and for film & media studies more generally, there is a middle course to be walked between deformative and deformed practices that leverages the strengths of both. The work of Kevin L. Ferguson in the field they have called "digital surrealism" provides excellent examples of this sort of hybridized scholarly/creative methodology and that has greatly informed this project. Ferguson defines digital surrealism as "compress[ing] the visual field of a film into a single image in order to compare a corpus of summed frames and create new avenues of scholarly research" (2017). While the process and products of compression and summing can vary greatly (as demonstrated below), the end-goal of this practice remains the same: to "generate new analytical modes for digital humanists who work with image analysis, raising new, comparative, second-order questions that come out of this digitally-aided abstraction" (ibid).
+For the purposes of examining the works of Ozu, and for film & media studies more generally, there is a middle course to be walked between deformative and deformed practices that leverages the strengths of both. The work of Kevin L. Ferguson in the field they have called "digital surrealism" provides excellent examples of this sort of hybridized scholarly/creative methodology that has greatly informed this project. Like the surrealist practices first developed in the early 20th century, digital surrealism "follows in the formal tradition of surrealism by favoring automatic methods and pursuing these in a controlled, systematic way with the purpose to uncover knowledge not immediately perceptible by the rational mind" (Ferguson, 2016, p. 274). This is achieved by first "slicing" a filmic text (evoking the iconic eye-slice in Buñuel surrealist film [_Un Chien Andalou_](http://www.openculture.com/2014/05/watch-a-restored-version-of-luis-bunuel-salvador-dalis-surreal-film-un-chien-aldalou-1929.html)) "into something wholly new as an object of investigation" (ibid, p. 275) in order to "generate new analytical modes for digital humanists who work with image analysis [and raise] new, comparative, second-order questions that come out of this digitally-aided abstraction" (Ferguson, 2017). How and what issues ought to be considered when slicing up a film for digital transformation and interrogation are treated below as is further discussion of digital surrealist methods as a research methodology.
 <br>
 #### _The Films & Legacy of Yasujirō Ozu_
 In Wim Wenders' documentary _Tokyo-Ga_ (1985), a film searching for what is left of the the now-canonical images of Japanese life found in Ozu's films in 1980s Tokyo, the German director succinctly and reverently characterizes Ozu's work as "a sacred treasure of the cinema." It is true that few auteurs have received the level of critical attention as Ozu, whose name resides in the pantheon of cinematic history and whose more well-known work (namely, 1949's _Late Spring_ and 1953's _Tokyo Story_) [often make lists claiming to define the "greatest films ever made."](https://www.bfi.org.uk/greatest-films-all-time) While it is outside the scope of this project to defend or challenge this standing and, far more importantly, to critically investigate the processes, motivations, and ramifications of these kinds of lists emanating from cultural heritage institutions in the [Global North](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), it is worth acknowledging this fact of Ozu's legacy simply for the sake of contextualizing this current project within a broader, developed field of study. The sheer amount of scholarship around Ozu's films provides many useful starting points for our analysis, and while a comprehensive literature review is (again) outside the scope of this project, a few key texts and critical points should be mentioned in the interest of framing the forthcoming analysis within this scholarly discourse.
 
-A great deal of the commentary and criticism about Ozu's films have focused on the stylistic or formal qualities of the director's work. Over the course of his career, these features are often written about as solidifying into a distinctive set of strategies related to shot composition, editing style, camera movement/placement, and, in his final six films, the use of color. Adam Bingham helpfully lists these features of Ozu's "mature (post-1949)" period, some of which include:
+A great deal of the commentary and criticism about Ozu's films have focused on the stylistic or formal qualities of the director's work. Over the course of his career, these features are often written about as solidifying into a distinctive set of strategies related to shot composition, editing style, and camera movement/placement. Adam Bingham helpfully lists these features of Ozu's "mature (post-1949)" period, some of which include:
 
   * The use of 360-degree shooting space
   * A predominately static camera
@@ -64,12 +64,12 @@ Tools and applications used in this project include:
 
   * [FFmpeg](https://www.ffmpeg.org/)
   * [ImageJ](https://imagej.nih.gov/ij/)
-  * [Imj](http://www.zachwhalen.net/pg/imj/)
+    * [ImagePlot macro](http://lab.softwarestudies.com/p/imageplot.html) developed by the [Software Studies Initiative](http://lab.softwarestudies.com/)
 
-These tools are all free and open-source. FFmpeg perhaps carries the steepest learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
+These tools are all free and open-source. FFmpeg perhaps carries the steeper learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
 
 #### _Extracting a series of stills or "slices" from a digital video file_
-As described by both Sample and Ferguson, one way of beginning the process of visually analyzing a motion-picture is convert the time-based media into a series of still images that can be more malleably manipulated by image analysis software. A number of methods exist for performing this task. As Ferguson describes in "Digital Surrealism," the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
+As described by both Sample and Ferguson, one way of beginning the process of visually analyzing a motion-picture is convert the time-based media into a series of still images that can be more malleably manipulated by image analysis software. A number of methods exist for performing this task. As Ferguson describes, the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
 
 The method I will provide here uses an FFmpeg command to create a series of still images. The benefits of this method are two-fold: 1) it does not rely on access to proprietary, platform-specific software, and 2) unlike the VLC method--which requires a video file be played back in real time--the FFmpeg command will extract stills at a regular interval over any duration in a fraction of the time. Additionally, the FFmpeg method allows for more control over the image output with regard to maintaining important formal characteristics like the aspect ratio.
 
@@ -101,11 +101,27 @@ Notice how this second image looks "squished" or "stretched" in comparison to th
 
 For more information on the often very confusing issues related to pixel aspect ratio, see the "Resources & Learning Tools" section.
 
-Now that we have converted our digital video files into still images, we can leverage the functionalities of ImageJ and Imj to critically investigate Ozu's uses of color.
+Now that we have converted our digital video files into still images, we can leverage the functionalities of ImageJ to critically investigate Ozu's uses of color.
 
 <br>
 
 ## Analysis   
+The Montage feature of ImageJ perhaps produces the most straightforward and familiar transformation and re-presention of a filmic text. While this method retains the original chronological order of a film's images (read top-to-bottom, left-to-right), it does "spatialize time" in presenting this chronology as a two-dimensional field which can be scanned and interrogated in ways a traditional viewing would not allow (even with the advent of digital scrubbing, slow-motion replay, etc.) (Ferguson, 2017, p. 278). We are able to observe a given moment in a unique context to others in the film, similar to viewing different features and details on geographic map and understanding their relationships to each other and the whole of the map's construction. With respect to color, we can also glean a strong chromatic impression from having the visual palette of the film laid out in a single image. Below are the Montages created for all six films treated in this project, presented in chronological order:
+
+{% include feature/item-figure.html objectid="coll013" %}
+<br>
+{% include feature/item-figure.html objectid="coll015" %}
+<br>
+{% include feature/item-figure.html objectid="coll009" %}
+<br>
+{% include feature/item-figure.html objectid="coll016" %}
+<br>
+{% include feature/item-figure.html objectid="coll014" %}
+<br>
+{% include feature/item-figure.html objectid="coll010" %}
+
+[.....]
+
 ### Summed Frame Z-Projections
 The summed frame z-projection is a cornerstone of the "digital surrealist" method as described by Ferguson (2017). The images below were created using the "Stacks" functionality in ImageJ, wherein the extracted still images from a digital video file, or "slices," are digitally "stacked" together in order to represent the visual field of the entire film within a single frame. In doing this we "[convert] the dimension of time that we experience while watching a two-dimensional motion picture into a third spatial dimension that can also be analyzed." The documentation of ImageJ also references this conversion of a temporal dimension into the spatial one: "in stacks, a pixel (which represents 2D image data in a bitmap image) becomes a voxel (volumetric pixel), i.e., an intensity value on a regular grid in a three dimensional space" (Ferreira and Rasband, 2010–2012, p. 12).
 
@@ -127,14 +143,7 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 
 The first thing anyone is likely to notice between these images is their remarkable similarity of composition. All six z-projections have a ghostly human-esque shape at their center. Dark hair, the shape of a face, and something resembling shoulders and a torso are easily discernible, as is some semblance of clothing--a faint exposure of a tie can even be seen in both _Equinox Flower_ and _An Autumn Afternoon_, both films with middle-aged salarymen struggling with generational differences at their centers. One possible reading of these images is that they illustrate the rigorous conventions of Ozu's style as enumerated by Bingham and many others. This extends even to Ozu himself who self-characterized as "strictly a tofu dealer," referring to his repeated uses of actors, plots, and cinematographic techniques in his filmmaking (Richie, p. 10).  But tofu dealer or no, these images provide us with more insight than may initially meet the eye.
 
-
-### Montages
-
-<br>
-
-### Scatterplots
-
-
+[.....]
 
 
 ## Resources & Learning Tools
@@ -152,11 +161,12 @@ Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Orig
   * [FFmpeg Bug Tracker & Wiki](https://trac.ffmpeg.org/)
   * [Official Documentation](https://www.ffmpeg.org/documentation.html)
 
-#### ImageJ
+#### ImageJ & ImagePlot
 
   * [ImageJ User Guide](https://imagej.nih.gov/ij/docs/guide/user-guide.pdf)
+  * [Video tutorials on using ImagePlot](http://lab.softwarestudies.com/2012/12/imageplot-video-tutorials-learn-how-to.html)
 
-#### CLI (Command Line Interface)
+#### Learning the CLI (Command Line Interface)
 
   * [Introduction to the Bash Command Line from The Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
 
@@ -174,7 +184,9 @@ Bordwell, David (1988) _Ozu and the Poetics of Cinema_. Princeton: Princeton Uni
 
 Ferreira, Tiago and Wayne Rasband (2010–2012) [ImageJ User Guide: IJ 1.46r](http://imagej.nih.gov/ij/docs/guide/user-guide.pdf)
 
-Ferguson, Kevin L. (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanties Quarterly_, 11(1)
+Ferguson, Kevin L. (2016) "The Slices of Cinema: Digital Surrealism as Research Strategy." [_The Arclight Guidebook to Media History and the Digital Humanities_](http://projectarclight.org/book/), ed. Charles R. Acland and Eric Hoyt. Falmer: REFRAME/Project Arclight
+
+----- (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanities Quarterly_, 11(1)
 
 Hockey, Susan (2004) [“The History of Humanities Computing,”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) _A Companion to Digital Humanities_, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell
 
@@ -191,6 +203,6 @@ Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
 ## About the Author
-This site was created and is maintained by Dave Rodriguez, Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
+This site was created and is maintained by Dave Rodriguez (ORCID - https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
 
-Last updated 2020-04-29
+Last updated 2020-05-04
