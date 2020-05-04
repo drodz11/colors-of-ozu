@@ -1,5 +1,4 @@
 field,display_name,btn,hidden
-date,Date,
-creator,Creator,
-
-
+title,Title,,
+type,Type,,
+rightsstatement,Rights Statement,,
