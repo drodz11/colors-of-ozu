@@ -1,3 +1,4 @@
 field,display_name,browse_link
 title,Title,
-format,Format,
+type,type,
+rightsstatement,Rights Statement,
