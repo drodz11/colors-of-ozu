@@ -160,9 +160,15 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 
 The first thing anyone is likely to notice between these images is their remarkable similarity of composition. All six z-projections have a ghostly human-esque shape at their center. Dark hair, the shape of a face, and something resembling shoulders and a torso are easily discernible, as is some semblance of clothing--a faint exposure of a tie can even be seen in both _Equinox Flower_ and _An Autumn Afternoon_, both films with middle-aged salarymen struggling with generational differences at their centers. One possible reading of the consistency across these images is that they illustrate the rigorous conventions of Ozu's style as enumerated by Bingham and many others. This extends even to Ozu himself who self-characterized as "strictly a tofu dealer," referring to his repeated uses of actors, plots, and cinematographic and editing techniques in his filmmaking (Richie, p. 10). But, tofu dealer or no, these images provide us with more insight than may initially meet the eye.
 
-When we chart these summed images using ImagePlot, we can see some useful relationships emerge:
+When we chart these summed images using ImagePlot, we can see some puzzling relationships emerge. This graph plots the median hue value along its x-axis and median brightness along the y-axis.
 
 {% include feature/item-figure.html objectid="coll023" %}
+
+Interestingly, the "brightest" film by this measure is _Good Morning_ while the "darkest" is _The End of Summer_. Also, note how the the hue orientation of _Good Morning_ has shifted radically from the red/brown region observed earlier to the completely opposite side of the graph. This is peculiar, as one might expect the "summed" image of a film with a demonstratively red/brown palette to exhibit the same color qualities. If we take a look at the measurement of median brightness, we can see how this might have produced such an image. The two charts below plot both _Good Morning_ and _The End of Summer_ chronologically along the x-axis. Each "slice" was taken at an interval of 1 frame every 2 seconds and, read left to right, encompasses the duration of film. The y-axis measures the median brightness value for each slice:
+
+{% include feature/item-figure.html objectid="coll025" %}
+<br>
+{% include feature/item-figure.html objectid="coll024" %}
 
 
 
