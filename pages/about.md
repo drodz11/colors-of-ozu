@@ -124,17 +124,17 @@ We can also leverage other tools, such as digital video, to structure our interr
 <br>
 {% include feature/item-figure.html objectid="coll012" %}
 <br>
-This breaking and reconfiguring of the filmic text can be further explored through the ImagePlot and related macros developed and released by Lev Manovich and the Software Studies Initiative. These tools allow us to first extract important color-related information about our dataset of slices (such as median hue, saturation, and brightness values) and then plot these values in a new, organized way. This yields not only a beautiful image representing a given film's chromatic "fingerprint" (in the vein of Cinemetrics) but also offers another layer of contextualization and non-temporally based investigation. The plots below represent Ozu's six color films graphed by median hue values (x-axis) and median saturation values (y-axis).
+This breaking and reconfiguring of the filmic text can be further explored through the ImagePlot and related macros developed and released by Lev Manovich and the Software Studies Initiative. These tools allow us to first extract important color-related information about our dataset of slices (such as median hue, saturation, and brightness values) and then plot these values in a new, organized way. This yields not only a beautiful image representing a given film's chromatic "fingerprint" (in the vein of Cinemetrics) but also offers another layer of contextualization and non-temporally based viewing. The plots below represent Ozu's six color films graphed by median hue values (x-axis) and median saturation values (y-axis).
 
 {% include feature/item-figure.html objectid="coll018" %}
 <br>
 {% include feature/item-figure.html objectid="coll020" %}
 <br>
+{% include feature/item-figure.html objectid="coll021" %}
+<br>
 {% include feature/item-figure.html objectid="coll022" %}
 <br>
 {% include feature/item-figure.html objectid="coll019" %}
-<br>
-{% include feature/item-figure.html objectid="coll012" %}
 <br>
 {% include feature/item-figure.html objectid="coll017" %}
 
