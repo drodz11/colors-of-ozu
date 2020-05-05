@@ -170,7 +170,9 @@ Interestingly, the "brightest" film by this measure is _Good Morning_ while the 
 <br>
 {% include feature/item-figure.html objectid="coll024" %}
 
+We can clearly see how _The End of Summer_ is a "darker" film based on how low its baseline median brightness values sit in the graph. And while _Good Morning_ is generally a brighter film by comparison, it's still difficult to account for the lack of red or brown color in summed image. If we plot this film by relating median hue and brightness values, we are able to more directly see the relationship between color and brightness:
 
+{% include feature/item-figure.html objectid="coll026" %}
 
 ## Resources & Learning Tools
 #### The Films of Yasujirō Ozu
