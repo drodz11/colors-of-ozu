@@ -233,5 +233,7 @@ This site was created and is maintained by [Dave Rodriguez](https://orcid.org/00
 
 ## About this site
 v1.0 released May, 2020
+
 This site was built with [CollectionBuilder](https://collectionbuilder.github.io/about.html).
+
 All material on this website carries the following Creative Commons license: [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
