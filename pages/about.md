@@ -123,6 +123,24 @@ The Montage feature of ImageJ perhaps produces the most straightforward and fami
 We can also leverage other tools, such as digital video, to structure our interrogation of these montages in order to generate new ways of "viewing" the film. In the example below, the center spatial point of the montage for _An Autumn Afternoon_ is used as our starting point. By slowly zooming out from the "heart" of the film, new pieces of visual information are gradually revealed as our field of vision becomes larger in scope. Evoking a structuring device similar to that used by Charles and Ray Eames' in [_Powers of Ten_](https://www.youtube.com/watch?v=0fKBhvDjuy0) (1972), this process of revealing and contextualization (albeit far less cosmic and profound than the Eames' subject matter) offers a spatialized method of viewing that not only unbinds the film from its temporal construction but also allows for a reinvigorated approach to seeing how color operates in the film.
 <br>
 {% include feature/item-figure.html objectid="coll012" %}
+<br>
+This breaking and reconfiguring of the filmic text can be further explored through the ImagePlot and related macros developed and released by Lev Manovich and the Software Studies Initiative. These tools allow us to first extract important color-related information about our dataset of slices (such as median hue, saturation, and brightness values) and then plot these values in a new, organized way. This yields not only a beautiful image representing a given film's chromatic "fingerprint" (in the vein of Cinemetrics) but also offers another layer of contextualization and non-temporally based investigation. The plots below represent Ozu's six color films graphed by median hue values (x-axis) and median saturation values (y-axis).
+
+{% include feature/item-figure.html objectid="coll018" %}
+<br>
+{% include feature/item-figure.html objectid="coll020" %}
+<br>
+{% include feature/item-figure.html objectid="coll022" %}
+<br>
+{% include feature/item-figure.html objectid="coll019" %}
+<br>
+{% include feature/item-figure.html objectid="coll012" %}
+<br>
+{% include feature/item-figure.html objectid="coll017" %}
+
+
+
+
 
 ### Summed Frame Z-Projections
 The summed frame z-projection is a cornerstone of the "digital surrealist" method as described by Ferguson (2017). The images below were created using the "Stacks" functionality in ImageJ, wherein the extracted still images from a digital video file, or "slices," are digitally "stacked" together in order to represent the visual field of the entire film within a single frame. In doing this we "[convert] the dimension of time that we experience while watching a two-dimensional motion picture into a third spatial dimension that can also be analyzed." The documentation of ImageJ also references this conversion of a temporal dimension into the spatial one: "in stacks, a pixel (which represents 2D image data in a bitmap image) becomes a voxel (volumetric pixel), i.e., an intensity value on a regular grid in a three dimensional space" (Ferreira and Rasband, 2010–2012, p. 12).
