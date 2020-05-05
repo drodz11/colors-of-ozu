@@ -124,7 +124,7 @@ We can also leverage other tools, such as digital video, to structure our interr
 <br>
 {% include feature/item-figure.html objectid="coll012" %}
 
-This breaking and reconfiguring of the filmic text can be further explored through the ImagePlot and related macros developed and released by Lev Manovich and the Software Studies Initiative. These tools allow us to first extract important color-related information about our dataset of slices (such as median hue, saturation, and brightness values) and then plot these values in a new, organized way. This yields not only a beautiful image representing a given film's chromatic "fingerprint" (in the vein of Cinemetrics) but also offers another layer of contextualization and non-temporally based viewing. The plots below represent Ozu's six color films graphed by median hue values (x-axis) and median saturation values (y-axis).
+This breaking and reconfiguring of the filmic text can be further explored through the ImagePlot and related macros developed and released by Lev Manovich and the Software Studies Initiative. These tools allow us to first extract important color-related information about our dataset of slices (such as median hue, saturation, and brightness values via the [image_measure macro](https://github.com/culturevis/imageplot/blob/master/extras/imageMeasure.txt)) and then plot these values in a new, organized way. This yields not only a beautiful image representing a given film's chromatic "fingerprint" (in the vein of Cinemetrics) but also offers another layer of contextualization and way of examining its visual construction. The plots below represent Ozu's six color films graphed by median hue values (x-axis) and median saturation values (y-axis).
 
 {% include feature/item-figure.html objectid="coll018" %}
 <br>
@@ -138,14 +138,11 @@ This breaking and reconfiguring of the filmic text can be further explored throu
 <br>
 {% include feature/item-figure.html objectid="coll017" %}
 
+In comparing these plots, we can see some interesting tendencies arise. The palettes of _Equinox Flower_ and _Good Morning_, for example, seem to skew more toward the red/brown end of the spectrum than the other films. Further, the overall use of color in _Good Morning_ seems much more limited and confined to these shades than other works that seem to almost explode with blues and purples like _Floating Weeds_. While these median hue and saturation values are by no means an absolute, complete measure of the images' color qualities, this data-driven approach provides us with both a valuable, empirical form of measurement and a "deformed" object created through digital surrealist practice. Reading these different deformations/visualizations together can also provide insight into the original text and a new field of objects for contemplation and analysis.
 
+Another type of such objects is the summed frame z-projection, a cornerstone of the digital surrealist method as described by Ferguson (2017). These images are created using the "Stacks" functionality in ImageJ, wherein the extracted still images from a digital video file, or "slices," are digitally "stacked" together in order to represent the visual field of the entire film within a single frame. Similar to Ferguson's notion of "spatialized time," the documentation of ImageJ also references this conversion of a temporal dimension into the spatial one: "in stacks, a pixel (which represents 2D image data in a bitmap image) becomes a voxel (volumetric pixel), i.e., an intensity value on a regular grid in a three dimensional space" (Ferreira and Rasband, 2010–2012, p. 12).
 
-
-
-### Summed Frame Z-Projections
-The summed frame z-projection is a cornerstone of the "digital surrealist" method as described by Ferguson (2017). The images below were created using the "Stacks" functionality in ImageJ, wherein the extracted still images from a digital video file, or "slices," are digitally "stacked" together in order to represent the visual field of the entire film within a single frame. In doing this we "[convert] the dimension of time that we experience while watching a two-dimensional motion picture into a third spatial dimension that can also be analyzed." The documentation of ImageJ also references this conversion of a temporal dimension into the spatial one: "in stacks, a pixel (which represents 2D image data in a bitmap image) becomes a voxel (volumetric pixel), i.e., an intensity value on a regular grid in a three dimensional space" (Ferreira and Rasband, 2010–2012, p. 12).
-
-While there are several projection-types offered in ImageJ, the "Sum Slices" option "adds together the voxel space of the stack of slices, compressing the film’s visual field to reveal a single representative image." This single representative image is a kind of "impression" or aggregation of the visual experience of the film itself distilled from its duration. Ferguson qualifies this representative image by noting that "[w]hile collapsing the film text to a single frame might initially strike some as overly reductive, this process magnifies a cinematic experience that is otherwise entirely unnoticeable: the pure, cumulative effect of duration on our eyes and brains" that isn't legible through regular ways of viewing tethered to a temporal experience of the film.
+While there are several projection-types offered in ImageJ, the "Sum Slices" option "adds together the voxel space of the stack of slices, compressing the film’s visual field to reveal a single representative image" (Ferguson 2017). This single representative image is a kind of "impression" or aggregation of the visual experience of the film itself distilled from its duration. Ferguson qualifies this representative image by noting that "[w]hile collapsing the film text to a single frame might initially strike some as overly reductive, this process magnifies a cinematic experience that is otherwise entirely unnoticeable: the pure, cumulative effect of duration on our eyes and brains" that isn't legible through regular ways of viewing (ibid).
 
 Below are the summed z-projections of Ozu's six color films in chronological order:
 
@@ -161,9 +158,12 @@ Below are the summed z-projections of Ozu's six color films in chronological ord
 <br>
 {% include feature/item-figure.html objectid="coll002" %}
 
-The first thing anyone is likely to notice between these images is their remarkable similarity of composition. All six z-projections have a ghostly human-esque shape at their center. Dark hair, the shape of a face, and something resembling shoulders and a torso are easily discernible, as is some semblance of clothing--a faint exposure of a tie can even be seen in both _Equinox Flower_ and _An Autumn Afternoon_, both films with middle-aged salarymen struggling with generational differences at their centers. One possible reading of these images is that they illustrate the rigorous conventions of Ozu's style as enumerated by Bingham and many others. This extends even to Ozu himself who self-characterized as "strictly a tofu dealer," referring to his repeated uses of actors, plots, and cinematographic techniques in his filmmaking (Richie, p. 10).  But tofu dealer or no, these images provide us with more insight than may initially meet the eye.
+The first thing anyone is likely to notice between these images is their remarkable similarity of composition. All six z-projections have a ghostly human-esque shape at their center. Dark hair, the shape of a face, and something resembling shoulders and a torso are easily discernible, as is some semblance of clothing--a faint exposure of a tie can even be seen in both _Equinox Flower_ and _An Autumn Afternoon_, both films with middle-aged salarymen struggling with generational differences at their centers. One possible reading of the consistency across these images is that they illustrate the rigorous conventions of Ozu's style as enumerated by Bingham and many others. This extends even to Ozu himself who self-characterized as "strictly a tofu dealer," referring to his repeated uses of actors, plots, and cinematographic and editing techniques in his filmmaking (Richie, p. 10). But, tofu dealer or no, these images provide us with more insight than may initially meet the eye.
 
-[.....]
+When we chart these summed images using ImagePlot, we can see some useful relationships emerge:
+
+{% include feature/item-figure.html objectid="coll023" %}
+
 
 
 ## Resources & Learning Tools
@@ -223,6 +223,9 @@ Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
 ## About the Author
-This site was created and is maintained by Dave Rodriguez (https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
+This site was created and is maintained by [Dave Rodriguez](https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
 
-Last updated 2020-05-05
+## About this site
+v1.0 released May, 2020
+This site was built with [CollectionBuilder](https://collectionbuilder.github.io/about.html).
+All material on this website carries the following Creative Commons license: [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)

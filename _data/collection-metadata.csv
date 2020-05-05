@@ -1,22 +1,25 @@
 objectid,filename,youtubeid,title,type,format,rightsstatement
-coll002,SUM_aaa_squarestills.jpg,,Summed Z-Projection of An Autumn Afternoon (1962),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll003,SUM_ef_squarestills.jpg,,Summed Z-Projection of Equinox Flower (1958),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll004,SUM_eos_squarestills.jpg,,Summed Z-Projection of End of Summer (1961),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll005,SUM_la_squarestills.jpg,,Summed Z-Projection of Late Autumn (1960),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll006,aaa_square0090.jpg,,Still from An Autumn Afternoon (1962) with square pixels,Video still,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll007,aaa_0090.jpg,,Still from An Autumn Afternoon (1962) without square pixels,Video still,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll008,SUM_fw_squarestills.jpg,,Summed Z-Projection of Floating Weeds (1959),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll009,Montage_fw.jpg,,Montage of Floating Weeds (1959),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll010,Montage_aaa.jpg,,Montage of An Autumn Afternoon (1962),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll011,SUM_gm_squarestills.jpg,,Summed Z-Projection of Good Morning (1959),Summed Z-Projection,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll012,,pQkCYkjNjyo,An Autumn Afternoon (1962) View from Center,Video,video/mp4,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll013,Montage_ef.jpg,,Montage of Equinox Flower (1958),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll014,Montage_eos.jpg,,Montage of The End of Summer (1961),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll015,Montage_gm.jpg,,Montage of Good Morning (1959),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll016,Montage_la.jpg,,Montage of Late Autumn (1960),Montage,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll017,Plot_aaa_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, An Autumn Afternoon (1962)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll018,Plot_ef_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Equinox Flower (1958)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll019,Plot_eos_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, The End of Summer (1961)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll020,Plot_fw_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Floating Weeds (1959)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll021,Plot2_gm_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Good Morning (1959)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
-coll022,Plot2_la_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Late Autumn (1960)",ImagePlot,image/jpeg,http://rightsstatements.org/vocab/InC-EDU/1.0/
+coll002,SUM_aaa_squarestills.jpg,,Summed Z-Projection of An Autumn Afternoon (1962),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll003,SUM_ef_squarestills.jpg,,Summed Z-Projection of Equinox Flower (1958),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll004,SUM_eos_squarestills.jpg,,Summed Z-Projection of End of Summer (1961),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll005,SUM_la_squarestills.jpg,,Summed Z-Projection of Late Autumn (1960),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll006,aaa_square0090.jpg,,Still from An Autumn Afternoon (1962) with square pixels,Video still,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll007,aaa_0090.jpg,,Still from An Autumn Afternoon (1962) without square pixels,Video still,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll008,SUM_fw_squarestills.jpg,,Summed Z-Projection of Floating Weeds (1959),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll009,Montage_fw.jpg,,Montage of Floating Weeds (1959),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll010,Montage_aaa.jpg,,Montage of An Autumn Afternoon (1962),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll011,SUM_gm_squarestills.jpg,,Summed Z-Projection of Good Morning (1959),Summed Z-Projection,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll012,,pQkCYkjNjyo,An Autumn Afternoon (1962) View from Center,Video,video/mp4,https://creativecommons.org/licenses/by-nc/4.0/
+coll013,Montage_ef.jpg,,Montage of Equinox Flower (1958),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll014,Montage_eos.jpg,,Montage of The End of Summer (1961),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll015,Montage_gm.jpg,,Montage of Good Morning (1959),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll016,Montage_la.jpg,,Montage of Late Autumn (1960),Montage,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll017,Plot_aaa_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, An Autumn Afternoon (1962)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll018,Plot_ef_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Equinox Flower (1958)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll019,Plot_eos_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, The End of Summer (1961)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll020,Plot_fw_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Floating Weeds (1959)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll021,Plot2_gm_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Good Morning (1959)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll022,Plot2_la_xhue-med_ysat-med.jpg,,"Median Hue vs. Median Saturation, Late Autumn (1960)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll023,sumsPlot-labels_xhue-med_ybright-med.jpg,,"Median Hue vs. Median Brightness, All Summed Projections",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll024,eos_ximageID_ybright-med.jpg,,"Time vs. Median Brightness, The End of Summer (1961)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
+coll025,gm_ximageID_ybright-med.jpg,,"Time vs. Median Brightness, Good Morning (1959)",ImagePlot,image/jpeg,https://creativecommons.org/licenses/by-nc/4.0/
