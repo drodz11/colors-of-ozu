@@ -179,8 +179,6 @@ We can see a similar clustering around the red/brown region of the graph, but al
 <br>
 
 ## Conclusions
-
-
 It is my hope that this project continues to grow and evolve as my knowledge increases, new research and tools become available, and more scholars, artists, and filmmakers engage with these methods and ideas. I agree whole-heartedly with Mark Sample's assertion that [DH isn't about building, it's about sharing](https://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/) and I will definitely strive to share any new insights as I discover them and I will do best to respond to any inquiries related to helping/consulting/troubleshooting any of these tools as needed. To that end, please take advantage of the Resources and Tools listed below and support the scholars and organizations that have made them available to us.  
 
 ## Resources & Learning Tools
