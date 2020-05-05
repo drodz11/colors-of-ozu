@@ -66,7 +66,7 @@ Tools and applications used in this project include:
   * [ImageJ](https://imagej.nih.gov/ij/)
     * [ImagePlot macro](http://lab.softwarestudies.com/p/imageplot.html) developed by the [Software Studies Initiative](http://lab.softwarestudies.com/)
 
-These tools are all free and open-source. FFmpeg perhaps carries the steeper learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
+These tools are all free and open-source. FFmpeg perhaps carries the steeper learning curve in that its use requires familiarity with the command-line and knowledge of FFmpeg command structure and syntax. Alternatively, ImageJ, a GUI-based image analysis application developed by the National Institute of Health, has a multitude of functionalities, options, and settings which may not be immediately intuitive to novice users. Information and resources related to using these tools can be found in the "Resources & Learning Tools" section at the bottom of this page.
 
 #### _Extracting a series of stills or "slices" from a digital video file_
 As described by both Sample and Ferguson, one way of beginning the process of visually analyzing a motion-picture is convert the time-based media into a series of still images that can be more malleably manipulated by image analysis software. A number of methods exist for performing this task. As Ferguson describes, the Export feature built into the Quicktime Media Player (native to Mac OSX) can accomplish this in a fairly straightforward way. Similarly, Mark Sample's ["Sample Reality"](https://www.samplereality.com/) blog provides helpful [step-by-step instructions](https://www.samplereality.com/2017/11/15/image-analysis/) for the same procedure using the VLC media player.
@@ -205,6 +205,6 @@ Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
 ## About the Author
-This site was created and is maintained by Dave Rodriguez (ORCID - https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
+This site was created and is maintained by Dave Rodriguez (https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
 
-Last updated 2020-05-04
+Last updated 2020-05-05
