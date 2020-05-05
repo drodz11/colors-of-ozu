@@ -128,9 +128,9 @@ This breaking and reconfiguring of the filmic text can be further explored throu
 
 {% include feature/item-figure.html objectid="coll018" %}
 <br>
-{% include feature/item-figure.html objectid="coll020" %}
-<br>
 {% include feature/item-figure.html objectid="coll021" %}
+<br>
+{% include feature/item-figure.html objectid="coll020" %}
 <br>
 {% include feature/item-figure.html objectid="coll022" %}
 <br>
