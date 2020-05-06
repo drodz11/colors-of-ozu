@@ -221,7 +221,7 @@ Bordwell, David (1988) _Ozu and the Poetics of Cinema_. Princeton: Princeton Uni
 
 Ferreira, Tiago and Wayne Rasband (2010–2012) [ImageJ User Guide: IJ 1.46r](http://imagej.nih.gov/ij/docs/guide/user-guide.pdf)
 
-Ferguson, Kevin L. (2016) "The Slices of Cinema: Digital Surrealism as Research Strategy." [_The Arclight Guidebook to Media History and the Digital Humanities_](http://projectarclight.org/book/), ed. Charles R. Acland and Eric Hoyt. Falmer: REFRAME/Project Arclight
+Ferguson, Kevin L. (2016) "The Slices of Cinema: Digital Surrealism as Research Strategy." [_The Arclight Guidebook to Media History and the Digital Humanities_](http://projectarclight.org/book/), ed. Charles R. Acland and Eric Hoyt, pp. 270-299. Falmer: REFRAME/Project Arclight
 
 ----- (2017) ["Digital Surrealism: Visualizing Walt Disney Animation Studios,"](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html) _Digital Humanities Quarterly_, 11(1)
 
