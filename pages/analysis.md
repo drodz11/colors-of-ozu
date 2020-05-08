@@ -1,7 +1,7 @@
 ---
 title: Analysis
 layout: page
-permalink: /anlysis.html
+permalink: /analysis.html
 # Edit the markdown on in this file to describe your collection
 ---
 
