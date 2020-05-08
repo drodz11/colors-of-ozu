@@ -33,4 +33,4 @@ Schrader, Paul (2018) _Transcendental Style in Film: Ozu, Bresson, Dreyer_. Orig
 
   * [Filmmaker IQ's Epic Lesson in the History of Aspect Ratio](https://nofilmschool.com/2013/06/visual-history-of-aspect-ratio)
   * [Ashley Blewer's primer on pixel aspect ratio](https://training.ashleyblewer.com/presentations/video.html#27)
-  * [Wikipedia article on pixel aspect ratio](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
+  * [Very thorough Wikipedia article on pixel aspect ratio](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
