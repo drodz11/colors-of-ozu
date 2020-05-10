@@ -21,4 +21,6 @@ Begun as a research project in March of 2020 during the COVID-19 pandemic, _Colo
 
 The hope of this project is to inspire media scholars to explore research methods beyond traditional audio-visual analysis and DH practitioners to expand their purview into new cultural heritage domains by applying digital scholarship methods to the study of filmic texts. Further, the collection hosted on this website will reflect both the scholarly outputs of the investigation into Ozu's color films and provide guidance and instructions for those wishing to create their own digital scholarship project using the open-source tools leveraged here.
 
+Next: [Critical Contexts](contexts.html)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
