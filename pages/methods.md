@@ -18,7 +18,7 @@ These tools are free and open-source. FFmpeg perhaps carries the steeper learnin
 
 #### _A note on source materials_
 All materials used in this project were generated from Region 1 [Criterion Collection](https://www.criterion.com/) DVDs in the United States. As such, these versions of Ozu's films represent the most "authoritative" or "definitive" versions as are available to me working in 2020. English subtitles were left out in the interest of capturing only features that could be found in the original images. Criterion provides great documentation as to the technical specifications and other information related to filmic source materials for many of its releases, and I would encourage anyone wishing to know more about these important details to seek out the various "liner notes" available:
-  * _Equinox Flower_, _Late Autumn_, and _The End of Summer_ can be found on the [Late Ozu boxset](https://www.criterion.com/boxsets/427-eclipse-series-3-late-ozu) under the Eclipse imprint
+  * _Equinox Flower_, _Late Autumn_, and _The End of Summer_ can be found on the [_Late Ozu_ boxset](https://www.criterion.com/boxsets/427-eclipse-series-3-late-ozu) under the Eclipse imprint
   * [_Good Morning_](https://www.criterion.com/films/624-good-morning)
   * [_Floating Weeds_](https://www.criterion.com/films/349-floating-weeds)
   * [_An Autumn Afternoon_](https://www.criterion.com/films/784-an-autumn-afternoon)
