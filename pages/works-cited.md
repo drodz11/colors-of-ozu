@@ -27,7 +27,7 @@ Samuels, Lisa and McGann, Jerome (1999) ["Deformance and Interpretation,"](http:
 
 Steyrl, Hito (2013) ["Too Much World: Is the Internet Dead?](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/). [_e-flux Journal_, no. 49.](https://www.e-flux.com/journal/49/)
 
-Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1). _the scottbot irregular_ blog post.
+Weingart, Scott (2016) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1). _the scottbot irregular_ blog post.
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
 
