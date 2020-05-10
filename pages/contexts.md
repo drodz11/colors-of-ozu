@@ -36,7 +36,7 @@ For those who may not be familiar with Ozu's work, watching the films released d
 
 Using the digital tools and methods outlined in the next section, this project hopes produce a similar freshness and new way of looking at Ozu's cinematic poetry, one that breaks from the confines of traditional viewing and allows for new analytical methods.
 
-Much more detailed and comprehensive analyses of Ozu's films can be found in many other places. For a few recommendations of where to seek out these commentaries, see the Resources and Learning Tools on this site.
+Much more detailed and comprehensive analyses of Ozu's films can be found in many other places. For a few recommendations of where to seek out these commentaries, see the [Resources and Learning Tools](resources.html) section on this site.
 
 Next: [Methods & Tools](methods.html)
 
