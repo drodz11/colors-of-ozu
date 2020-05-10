@@ -10,7 +10,7 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://drodz11.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /colors-of-ozu/
+baseurl: /colors-of-ozu
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Colors of Ozu
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline:
+tagline: A digital scholarship project examining the color films of Yasujirō Ozu
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: A digital scholarship project examining the color films of Yasujirō Ozu
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Dave Rodriguez
+author: drodz11
 
 ##########
 # COLLECTION SETTINGS
@@ -37,8 +37,8 @@ metadata: collection-metadata
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code
-# google-analytics-id: "UA-74844011-1"
-# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+google-analytics-id: "UA-74844011-1"
+google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
 # ROBOTS EXCLUDE
