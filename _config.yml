@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Colors of Ozu
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A digital scholarship project examining the color films of Yasujirō Ozu
+description: A digital scholarship project examining the color films of Yasujirō Ozu. Click the "About" dropdown menu to read more.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: drodz11
 
