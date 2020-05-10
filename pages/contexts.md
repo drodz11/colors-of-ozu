@@ -37,3 +37,7 @@ For those who may not be familiar with Ozu's work, watching the films released d
 Using the digital tools and methods outlined in the next section, this project hopes produce a similar freshness and new way of looking at Ozu's cinematic poetry, one that breaks from the confines of traditional viewing and allows for new analytical methods.
 
 Much more detailed and comprehensive analyses of Ozu's films can be found in many other places. For some recommendations of where to seek out these commentaries, see the Resources and Learning Tools on this site.
+
+Next: [Methods & Tools](methods.html)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

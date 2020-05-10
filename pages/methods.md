@@ -59,3 +59,7 @@ As such, this is one instance where opting to not "deform" one feature of the or
 For more information on the often very confusing issues related to pixel aspect ratio, see the Resources & Learning Tools section.
 
 Now that we have converted our digital video files into still images, we can leverage the functionalities of ImageJ to critically investigate Ozu's uses of color.
+
+Next: [Analysis & Conclusions](analysis.html)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

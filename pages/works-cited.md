@@ -30,3 +30,5 @@ Steyrl, Hito (2013) ["Too Much World: Is the Internet Dead?](https://www.e-flux.
 Weingart, Scott (2017) [“Submissions to DH2017 (pt. 1)”](http://scottbot.net/submissions-to-dh2017-pt-1)
 
 Wenders, Wim (1985) _Tokyo-Ga_. Released on the [Criterion Collection Blu-ray of _Late Spring_ (1949)](https://www.criterion.com/films/298-late-spring).
+
+Next: [Resources & Learning Tools](resources.html)
