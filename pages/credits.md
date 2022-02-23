@@ -6,7 +6,7 @@ permalink: /credits.html
 ---
 
 ## About the author
-This site was created and is maintained by [Dave Rodriguez](https://orcid.org/0000-0001-9759-8464), Resident Media Librarian at Florida State University. Send inquiries to dwrodriguez[at]fsu[dot]edu
+This site was created and is maintained by [Dave Rodriguez](https://orcid.org/0000-0001-9759-8464), Digital Services Librarian at Florida State University. Send inquiries to davidwilliamrodriguez[at]gmail[dot]com
 
 ## About this site
 v1.0 released May 2020
